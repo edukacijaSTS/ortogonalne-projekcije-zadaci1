@@ -1,0 +1,4 @@
+(function(){var loadHandler=window['sl_{D4D73870-4C38-4C20-97ED-CE79BFF89668}'];loadHandler&&loadHandler(55, '<div id="spr0_1a121e86"><div id="spr1_1a121e86" class="kern slide"><img id="img3_1a121e86" src="data/img3.png" width="960px" height="720px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_1a121e86" class="kern slide"><div id="spr3_1a121e86"><img id="img0_1a121e86" src="data/img0.jpg" width="960" height="720" alt="Imagen F"/></div><div id="spr4_1a121e86" style="left:381.667px;top:178.5px;"><img id="img1_1a121e86" src="data/img1.gif" width="302.5" height="169.333" alt="!cid_005101c90c2d$23b054b0$a69f7457@m2mrxiuv4d0gwo"/></div><div id="spr5_1a121e86" style="left:195px;top:396.75px;"><img id="img2_1a121e86" src="data/img73.png" width="621.75" height="201" alt="POZDRAV DO SLIJEDEĆEG TJEDANA!!!!\
+\
+REDOVNO IZVRŠAVAJTE SVOJE OBVEZE\
+UČENJE NIJE MUČENJE "/></div></div></div>');})();
